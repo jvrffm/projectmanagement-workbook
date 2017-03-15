@@ -1,6 +1,6 @@
-# Purpose
-This repository should collect all kinds of templates and best practice documents regarding project management. As I am a Prince2 guy, the initial wave of documents will be around [Prince2][4f70fbcc]. Any other Project Management method is highly welcome.
-One goal is to have a defined starting point and avoid restart with blank documents all the time.
+# Zweck
+Innerhalb dieses repository sollen alle möglichen Vorlagen und "Best Practice Dokumente" rund um das Thema Projektmanagement gesammelt werden. Initial werden diese mit [Prince2][4f70fbcc] Bezug beginnen, da ich selbst einen starken Prince2 Hintergrund habe. Jedwede andere Methode ist jedoch herzlich willkommen.
+Das repository soll helfen, dass man die wesentlichen Dokumente nicht jedes mal neu erfindet.
 
 # Approach
 The repository is open to everybody to contribute. Also a multi language document support is appreciated. Though the first drop will mainly be based in German language.
