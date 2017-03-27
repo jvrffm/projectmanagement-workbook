@@ -1,4 +1,4 @@
-# Konfigurationsdatensatz Vorlage
+# Konfigurationsmanagementstrategie Vorlage
 
 ## Dokumentenhistorie
 |    Projekt:                      |    Name des Projekts     |
@@ -27,8 +27,15 @@
 |-------------------------------|---------------------------|
 |  |  |  |
 
-## Auflistung
-|  Projektkennziffer| Kennziffer | Aktuelle Version | Titel | Datum der letzten Statusänderung | Eigentümer | Standort | Empfänger/ Benutzer von Kopien | Attribute des Konfigurationselements | Managementphase | Benutzer | Status | Produktzustand | Variante | Ersteller | Datum der Zuweisung | Quelle | Beziehungen zu anderen Produkten | Querverweise
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | |
+
+## Umfang
+
+## Verantwortung
+
+## Messung(en)
+
+## Ressourcen
+
+## Referenzdaten
+
+## Performance

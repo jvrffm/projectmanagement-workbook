@@ -1,4 +1,4 @@
-# Konfigurationsdatensatz Vorlage
+# Kommunikationsmanagementstrategie Vorlage
 
 ## Dokumentenhistorie
 |    Projekt:                      |    Name des Projekts     |
@@ -27,8 +27,21 @@
 |-------------------------------|---------------------------|
 |  |  |  |
 
-## Auflistung
-|  Projektkennziffer| Kennziffer | Aktuelle Version | Titel | Datum der letzten Statusänderung | Eigentümer | Standort | Empfänger/ Benutzer von Kopien | Attribute des Konfigurationselements | Managementphase | Benutzer | Status | Produktzustand | Variante | Ersteller | Datum der Zuweisung | Quelle | Beziehungen zu anderen Produkten | Querverweise
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | |
+
+## Einführung
+
+## Kommunikationsverfahren
+
+## Tools und Techniken
+
+## Dokumentation
+
+## Berichterstattung
+
+## Zeitplanung von Kommunikationsmanagementaktivitäten
+
+## Rollen und Verantwortlichkeiten
+
+## Analyse der Stakeholder
+
+## Informationsbedarf für jede interessierte Partei

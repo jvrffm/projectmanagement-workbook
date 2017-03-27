@@ -1,4 +1,4 @@
-# Konfigurationsdatensatz Vorlage
+# Produktbeschreibung des Projektendprodukts Vorlage
 
 ## Dokumentenhistorie
 |    Projekt:                      |    Name des Projekts     |
@@ -27,8 +27,23 @@
 |-------------------------------|---------------------------|
 |  |  |  |
 
-## Auflistung
-|  Projektkennziffer| Kennziffer | Aktuelle Version | Titel | Datum der letzten Statusänderung | Eigentümer | Standort | Empfänger/ Benutzer von Kopien | Attribute des Konfigurationselements | Managementphase | Benutzer | Status | Produktzustand | Variante | Ersteller | Datum der Zuweisung | Quelle | Beziehungen zu anderen Produkten | Querverweise
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | |
+
+## Titel
+
+## Zweck
+
+## Zusammensetzung
+
+## Herkunft/Ableitung
+
+## Notwendige Kenntnisse der Entwickler
+
+## Kundenqualitätserwartungen
+
+## Projektabnahmekriterien
+
+## Qualitätstoleranzen auf Projektebene
+
+## Projektabnahmemethode
+
+## Projektabnahmeverantwortlichkeiten

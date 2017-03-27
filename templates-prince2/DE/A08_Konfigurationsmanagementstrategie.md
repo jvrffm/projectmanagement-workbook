@@ -1,4 +1,4 @@
-# Konfigurationsdatensatz Vorlage
+# Konfigurationsmanagementstrategie Vorlage
 
 ## Dokumentenhistorie
 |    Projekt:                      |    Name des Projekts     |
@@ -27,8 +27,21 @@
 |-------------------------------|---------------------------|
 |  |  |  |
 
-## Auflistung
-|  Projektkennziffer| Kennziffer | Aktuelle Version | Titel | Datum der letzten Statusänderung | Eigentümer | Standort | Empfänger/ Benutzer von Kopien | Attribute des Konfigurationselements | Managementphase | Benutzer | Status | Produktzustand | Variante | Ersteller | Datum der Zuweisung | Quelle | Beziehungen zu anderen Produkten | Querverweise
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | |
+
+## Einführung
+
+## Konfigurationsmanagementverfahren
+
+## Verfahren für die Steuerung offener Punkte und Änderungen
+
+## Tools und Techniken
+
+## Dokumentation
+
+## Berichterstattung
+
+## Zeitplanung der Konfigurationsmanagementaktivitäten und der Aktivitäten für die Steuerung offener Punkte und Änderungen
+
+## Rollen und Verantwortlichkeiten
+
+## Bewertungsskala für Priorität und Schweregrad
